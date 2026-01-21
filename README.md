@@ -19,7 +19,7 @@ ClassSync is a comprehensive platform designed to streamline and automate teache
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JWT
 - **Email Service:** Nodemailer (Gmail SMTP)
-- **Deployment:** Vercel (Frontend), Render/Heroku (Backend)
+- **Deployment:** Vercel (Frontend), Render(Backend)
 
 ## Project Structure
 
