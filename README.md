@@ -67,6 +67,9 @@ ClassSync is a comprehensive platform designed to streamline and automate teache
      npm run dev
      ```
 
+   ## Screenshot Demo
+   
+
 
 ## License
 
