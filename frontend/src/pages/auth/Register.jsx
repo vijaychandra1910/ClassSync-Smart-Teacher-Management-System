@@ -147,7 +147,7 @@ const Register = () => {
             </Link>
           </div>
           <p className="text-xs text-gray-500 mt-3 text-center">
-            Note: School ID is not required; it will be created automatically.
+            Note: College ID is not required, it will be created automatically.
           </p>
         </div>
       </div>
